@@ -1,5 +1,7 @@
 # SRT/Calling cards illustrations
 
+All content here is distributed under a Creative Commons Attribution-NonCommercial license (CC BY-NC 4.0).
+
 ## SRT Antenna
 
 <img src="https://media.githubusercontent.com/media/arnavm/illustrations/master/SRT_CallingCards/SRT_Antenna.png" width="300">
